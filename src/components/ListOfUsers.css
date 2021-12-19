@@ -1,0 +1,12 @@
+.main-list-conatiner {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem auto;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.322);
+  max-width: 40rem;
+}
+.main-list-inner-conatiner {
+  padding: 0.25rem 0.75rem;
+}
